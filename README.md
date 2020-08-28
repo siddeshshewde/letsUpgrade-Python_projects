@@ -64,4 +64,4 @@ Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contr
 
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
 
-Please adhere towards our [code-of-conduct.md](code-of-conduct.md).
+Please adhere towards our [code-of-conduct.md](CODE-OF-CONDUCT.md).
