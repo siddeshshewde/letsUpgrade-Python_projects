@@ -34,7 +34,7 @@ ONLY PYTHON 👨‍💻
 * Python GUI
 * Tkinter Module
 
->## 💻&nbsp; GETTING STARTED
+>## 💻 GETTING STARTED
 
 => **Fork <a href=https://github.com/LetsUpgrade/NEW-VIEW><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a>this repository to start contributing.**
 
@@ -43,8 +43,9 @@ ONLY PYTHON 👨‍💻
     1) git init -initializes the git repository from the GitHub. 
     2) git clone -Clone the repository to your local machine
       (git clone https://github.com/<your-github-username>/garimasingh128/awesome-python-projects)
+```
 
->## 📝&nbsp; Learning Resources
+>## 📝 Learning Resources
 
 Read these articles to get a quick grab on Python:
 - https://www.python.org/about/gettingstarted/
@@ -55,11 +56,11 @@ Resources to learn Git:
 -  https://try.github.io/
 
 
->## 🏆&nbsp; Contributing
+>## 🏆 Contributing
 
 Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to the project.
 
->##  💼&nbsp;  Code of Conduct
+>##  💼  Code of Conduct
 
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
 
