@@ -42,7 +42,7 @@ ONLY PYTHON 👨‍💻
 ```bash
     1) git init -initializes the git repository from the GitHub. 
     2) git clone -Clone the repository to your local machine
-      (git clone https://github.com/<your-github-username>/garimasingh128/awesome-python-projects)
+      (git clone https://github.com/<your-github-username>/siddeshshewde/letsUpgrade-Python_projects)
 ```
 
 >## 📝 Learning Resources
