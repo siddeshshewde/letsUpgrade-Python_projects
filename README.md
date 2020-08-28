@@ -54,7 +54,6 @@ Read these articles to get a quick grab on Python:
 Resources to learn Git:
 -  https://try.github.io/
 
-
 >## 🏆&nbsp; Contributing
 
 Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to the project.
